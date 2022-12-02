@@ -21,3 +21,10 @@ export const register = async (req: Request, res: Response, next: NextFunction) 
     return;
   }
 }
+
+export const login = async (req: Request, res: Response, next: NextFunction) => {
+  
+};
+
+
+
